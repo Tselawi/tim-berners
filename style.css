@@ -1,0 +1,254 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #e8eae6;
+    box-sizing: content-box;
+   
+}
+
+.head {
+
+background-color: white;
+padding: 3em;
+margin: .5em auto;
+display: flex;
+flex-direction: column;
+width: 60%;
+   
+}
+.tim-berners{
+    border: solid #cdd0cb;
+    border-radius: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.name{
+    text-align: center;
+    background-color: white;
+    color: #f05454;
+    padding: 1em;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 200%;
+    
+}
+.job{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 150%;
+    text-align: center;
+    background-color: white;
+    color: #757679 ;
+}
+.text{
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    color: #757679 ;
+    word-spacing: 5px;
+    line-height: 1.6;
+    padding: 1em;
+    font-size: 110%;
+}
+.bold{
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    color: #757679 ;
+    font-weight: bold;
+    font-size: 90%;
+    
+}
+.bold1{
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    color: #757679 ;
+    font-weight: bold;
+    font-size: 90%;
+}
+.see {
+    background-color: #f05454;
+    text-decoration: none;
+    padding: .9em;
+    font-size: 19px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+.main {
+    text-align: center;
+    padding: 3em;
+    background-color: white;
+    margin: 1.5em auto;
+    width: 60%;
+    height: 60%;    
+}
+   
+.nav{
+    align-items: center;
+    list-style: none;;
+    color: #757679;
+    font-size: 2rem;
+    justify-content: center;
+    display: flex;
+    background-color:white ;
+}
+
+.nav i{
+    padding: 1rem 3.5rem;
+    background-color:white ;
+}
+.nav-text{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color:white;
+    
+}
+
+.nav-text a{
+    color: #757679; 
+    padding: .5rem 3rem;
+    background-color:white ;
+    list-style: none;
+    text-decoration: none;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    text-align: center;
+    padding: 3em;
+    background-color: white;
+    margin: .5em auto;
+    width: 60%;
+    height: auto;
+}
+.text1{
+    text-align: center;
+    background-color: white;
+    color: #757679; 
+    font-size: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: .1em;
+    margin-bottom:  1.5em; 
+}
+
+.film-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.film-content img{  
+margin: 1rem 1rem;
+height: 240px;
+width: 240px;
+
+}
+.film-discrption{
+    background-color: white;
+}
+.film-title{
+    text-align: center;
+    background-color: white;
+    height: 4rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #757679;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.discrption{
+    background-color: white;
+    font-size: 1.1rem;
+    line-height: 2rem;
+    text-align: left;
+    color: #757679;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+
+.film-content1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.film-content1 img{  
+margin: 1rem 1rem;
+height: 240px;
+width: 240px;
+
+}
+.film-discrption1{
+    background-color: white;
+}
+.film-title1{
+    text-align: center;
+    background-color: white;
+    height: 3rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #757679;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.discrption1{
+    background-color: white;
+    font-size: 1.1rem;
+    line-height: 2rem;
+    text-align: left;
+    color: #757679;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+
+.film-content2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.film-content2 img{  
+margin: 1rem 1rem;
+height: 240px;
+width: 240px;
+
+}
+.film-discrption2{
+    background-color: white;
+}
+.film-title2{
+    text-align: center;
+    background-color: white;
+    height: 4rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #757679;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.discrption2{
+    background-color: white;
+    font-size: 1.1rem;
+    line-height: 2rem;
+    text-align: left;
+    color: #757679;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+
+
+  
+  
+  
