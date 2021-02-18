@@ -14,4 +14,4 @@
 >add a link to the github page in the README.md
 >download the pictures below into the images folder
 
-https://github.com/becodeorg/LIE-Jepsen-4.27/blob/master/01-the-field/04-html-css/01-fundamentals/06-tim-berners-lee.md
+https://tselawi.github.io/tim-berners/
